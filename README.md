@@ -64,5 +64,109 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-nilyo-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://nilyo.com/
+Nilyo provides a service that connects users' LinkedIn, WhatsApp, Instagram, Facebook/Messenger, Telegram, and email accounts to AI agents such as ChatGPT and Claude. The integration lets the agents search, read, draft, reply, and send messages or perform other supported actions on behalf of the user without browser automation. It is offered as a cloud‑based connection layer that can be used by individuals or teams who employ these AI agents for everyday account work.
+
+**Areas:** Integration · AI Agents · Messaging · LinkedIn · WhatsApp · Email · ChatGPT · Claude
+
+## nilyo-com on APIs.io
+
+Everything profiled for nilyo-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nilyo-com/](https://apis.io/providers/nilyo-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Nilyo API](https://apis.io/apis/nilyo-com/nilyo-api/) — Nilyo provides a messaging and social-account API connecting LinkedIn, WhatsApp, Instagram, Facebook/Messenger, Telegram, email and calendars, operated by…
+- [nilyo-com API](https://apis.io/apis/nilyo-com/nilyo-com-api/) — nilyo-com API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-19); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [nilyo-com API Rules](https://apis.io/rules/nilyo-com/nilyo-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [nilyo-com Authentication](https://apis.io/security/nilyo-com/nilyo-com-authentication/)
+- [nilyo-com Domain Security](https://apis.io/security/nilyo-com/nilyo-com-domain-security/)
+- [nilyo-com Trust Center](https://apis.io/security/nilyo-com/nilyo-com-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [nilyo-com Plans Pricing](https://apis.io/plans/nilyo-com/nilyo-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nilyo.com/)
+- [Documentation](https://nilyo.com/guides/connect-email-to-n8n)
+- [Getting started](https://nilyo.com/setup-for-agents)
+- [Pricing](https://nilyo.com/pricing)
+- [Support](https://nilyo.com/support)
+- [Security](https://nilyo.com/security)
+- [Compliance](https://nilyo.com/security)
+- [Terms of service](https://nilyo.com/terms)
+- [Privacy policy](https://nilyo.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 53.6** — developing · rubric 0.27.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 38.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 88.9 |
+
+**Agent readiness 34.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nilyo-com/](https://apis.io/providers/nilyo-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for nilyo-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nilyo-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
